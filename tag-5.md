@@ -35,7 +35,7 @@ Diese Methode ermöglicht es den Teams, ihre Erfahrungen und Erkenntnisse aus de
 
 ### Vorbereitung&#x20;
 
-Die 4L-Methode kann sowohl in Präsenz als auch online durchgeführt werden. Folges Material ist für die beiden Varianten erfolrderlich&#x20;
+Die 4L-Methode kann sowohl in Präsenz als auch online durchgeführt werden. Folgendes Material ist für die beiden Varianten erforderlich:&#x20;
 
 
 
