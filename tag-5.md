@@ -61,9 +61,9 @@ Eine Möglichkeit diesen Rahmen zu setzen, ist es, den Team-Mitgliedern die Rahm
 * Wir sind hier, um Dinge herauszufinden, nicht jemanden an den Pranger zu stellen.
 * Es ist wichtig zu verstehen, dass unter den gegebenen Umständen und mit den gegebenen Mitteln jeder im Team sein Bestes gegeben hat.&#x20;
 
-## Reflektion
+### Reflektion
 
-Das Team erhält 10 Minuten um über die vergangene Zeit (Sprint, Iteration etc.)  zu reflektieren und Punkte zu notieren. Jeder Punkt sollte auf genau ein Post-It geschrieben werden. Dabei sollte unterschieden werden:&#x20;
+**Das Team erhält 10 Minuten** um über die vergangene Zeit (Sprint, Iteration etc.)  zu reflektieren und Punkte zu notieren. Jeder Punkt sollte auf genau ein Post-It geschrieben werden. Dabei sollte unterschieden werden:&#x20;
 
 **Liked/Loved**: Was hat wirklich Spass gemacht, was hat super funktioniert?
 
@@ -85,7 +85,7 @@ Diese Punkte sind notwendig, dass das Team überhaupt arbeiten kann. Mehr Person
 
 Nach Ablauf der Zeit, stellt jedes Team-Mitglied kurz seine Zettel for, und platziert Sie in dem jeweiligen Bereich auf dem entsprechenden Board.&#x20;
 
-## Action Items ermitteln
+### Action Items ermitteln
 
 Das Team splittet sich in 4 Teilgruppen.
 
@@ -93,14 +93,16 @@ Jede Gruppe geht nun zu dem ihr zugewiesenen Board und soll versuchen alle Karte
 
 Dies wiederholt das Team so lange, bis die Anzahl der Zettel überschaubar wurde, oder kein Board mehr "optimiert" werden kann.&#x20;
 
+**Pro Runde erhält das Team jeweils 10 Minuten Zeit.**
+
 Die nun übrig gebliebenen Zettel werden in "Action Items" umgewandelt. Für jeden Punkt wird eine verantwortliche Person bestimmt und ein Zieltermin festgelegt.&#x20;
 
-* Welche Maßnahmen sind notwendig, dass die Punkte aus "Learned" im Team ettabliert oder in Zukunft umgesetzt werden? Ggf. ist hier Wissenstransfer notwendig (Pairing, Schulung, ein kleiner Workshop o.ä. ).
+* Welche Maßnahmen sind notwendig, dass die Punkte aus "Learned" im Team etabliert oder in Zukunft umgesetzt werden? Ggf. ist hier Wissenstransfer notwendig (Pairing, Schulung, ein kleiner Workshop o.ä. ).
 * Wie sind die Dinge erhältlich, nach denen sich das Team gesehnt hat ("Longed for"_)._ Ggf. muss hier Budget beantragt werden, mit dem Management gesprochen werden etc.)
-* Was muss gemacht werden, um die fehlenden Punkte zu behben. Alles im Bereich "Lacked" ist essentiell um das Team besser zu machen. Ggf. kann das Team dies nicht alleine, sobald es sich um organisatorische Punkte handelt, kann der Scrum Master oder weitere Personen unterstützen, die identifizierten Probleme zu behandeln.
+* Was muss gemacht werden, um die fehlenden Punkte zu beheben. Alles im Bereich "Lacked" ist essentiell um das Team besser zu machen. Ggf. kann das Team dies nicht alleine, sobald es sich um organisatorische Punkte handelt, kann der Scrum Master oder weitere Personen unterstützen, die identifizierten Probleme zu behandeln.
 * Welche Maßnahmen werden umgesetzt um sicherzustellen, dass die Punkte aus Loved/Liked im Team beibehalten werden (z.B. einen Punkt in die DoD aufnehmen, der im Sprint praktiziert wurde)
 
-**Tipp**: Aus psychologischen Gründen ist es sinvoll, die Boards "Learned" und "Loed/Liked" als letztes zu besprechen. Somit erhält die Retrospektive einen positiven Abschluss.
+**Tipp**: Aus psychologischen Gründen ist es sinnvoll, die Boards "Learned" und "Loved/Liked" als letztes zu besprechen. Somit erhält die Retrospektive einen positiven Abschluss.
 
 ### Hintergrundwissen
 
