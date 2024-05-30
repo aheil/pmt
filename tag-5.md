@@ -37,3 +37,6 @@ Diese Methode ermöglicht es den Teams, ihre Erfahrungen und Erkenntnisse aus de
 
 Da zunächst jeder im Team seine Punkte aufschreibt, ohne im Team darüber zu sprechen, kann jeder seine Ideen unabhängig voneinander entwickeln. Dies kann dazu beitragen, sog. Gruppendenken zu vermeiden und sicherzustellen, dass alle Stimmen (und Ideen) gehört werden. In der Psychologie wird dies auch als [Nominal-Gruppen-Technik](https://de.wikipedia.org/wiki/Nominal-Group-Technique) bezeichnet.
 
+### Literatur
+
+Marc Löffler, Retrospektiven in der Praxis - Veränderungsprozesse in IT-Unternehmen effektiv begleiten, 2014, dpunkt.verlag, ISBN 978-3-86490-144-7
