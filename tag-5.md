@@ -42,17 +42,19 @@ Die 4L-Methode kann sowohl in Präsenz als auch online durchgeführt werden. Fol
 | Präsenz                                                                     | Online                                                                            |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | Meeting Raum                                                                | Video-Konferenzsystem mit Screensharing (BBB, WebEx, Microsoft Teams, Zoom etc.)  |
-| Whiteboard                                                                  | Kamera/Mikrophon für jedes Team-Mitglied                                          |
+| 4 Whiteboards od. Flipcharts                                                | Kamera/Mikrophon für jedes Team-Mitglied                                          |
 | Marker                                                                      |                                                                                   |
 | Post-Its/Sticky Notes (mind. ca. 10x15cm, besser ca. 15x20cm, Super Sticky) |                                                                                   |
 | Timer                                                                       | Digitals Kollaborations-Tool (z.B Miro)                                           |
 |                                                                             | Timer                                                                             |
 
+In Präsenz kann es sinnvoll sein, die Boards in den 4 Ecken des Raumen aufzustellen (s.u.). &#x20;
+
 ### Vorbereitung
 
-Der Moderator, i.d.R. der Scrum Master setzt die Rahmenbedingungen um eine vertrauensvolle Atmosphäre zu schaffen. Zur Erinnerung: Es handelt sich um ein Team-Termin, der in einesm sog. geschützten Raum (engl. Safe Space) stattfindet. Nichts was in der Retro besprochen wird, soll nach außen gelangen.&#x20;
+Der Moderator, i.d.R. der Scrum Master setzt die Rahmenbedingungen um eine vertrauensvolle Atmosphäre zu schaffen. Zur Erinnerung: Es handelt sich um ein Team-Termin, der in einem sog. geschützten Raum (engl. Safe Space) stattfindet. Nichts was in der Retro besprochen wird, soll nach außen gelangen.&#x20;
 
-Eine Möglichkeit diesen Rahmen zu setzen, ist es, den Team-Mitgliedern die Rahmenbedingungen der Retrospektiven nochmals in Erinnerung zu rufen. Mögliche Punkte, die der Modarator vorab dem TEam erklären kann:&#x20;
+Eine Möglichkeit diesen Rahmen zu setzen, ist es, den Team-Mitgliedern die Rahmenbedingungen der Retrospektiven nochmals in Erinnerung zu rufen. Mögliche Punkte, die der Moderator vorab dem Team erklären kann:&#x20;
 
 * Das Meeting ist ein geschützter Raum. Nichts von dem Gesagten wird gegen irgendjemand verwendet.&#x20;
 * Als Team nehmen wir uns die Zeit, um auf die vergangene Arbeit zu schauen, um herauszufinden, wie wir uns verbessern können.
@@ -80,6 +82,25 @@ Dies sind Dinge, die as Team in Zukunft besorgen oder beseitigen sollte. Bessere
 Diese Punkte sind notwendig, dass das Team überhaupt arbeiten kann. Mehr Personal, Kaffee, funktionierende Rechner, Kommunikation mit dem Kunden.&#x20;
 
 **Tipp**: Der Grat zwischen _Longed For_ und _Lacked_ ist nicht immer klar, bzw. in der Retrospektive nicht immer gleich ersichtlich.  Der Hauptunterschied besteht darin, dass _Longed For_ sich auf das Fehlen von etwas bezieht, das das Team gerne gehabt hätte, während _Lacked_ sich auf Bereiche bezieht, in denen das Team glaubt, dass es besser hätte sein können.
+
+Nach Ablauf der Zeit, stellt jedes Team-Mitglied kurz seine Zettel for, und platziert Sie in dem jeweiligen Bereich auf dem entsprechenden Board.&#x20;
+
+## Action Items ermitteln
+
+Das Team splittet sich in 4 Teilgruppen.
+
+Jede Gruppe geht nun zu dem ihr zugewiesenen Board und soll versuchen alle Karten auf dem Board zu gruppieren (cluster). Ggf. können die Karten auch unter einer (neuen) Überschrift zusammengefasst werden. Das Team stellt sein Ergebnis kurz vor. Danach rotieren die Teams weiter zum nächsten Board.&#x20;
+
+Dies wiederholt das Team so lange, bis die Anzahl der Zettel überschaubar wurde, oder kein Board mehr "optimiert" werden kann.&#x20;
+
+Die nun übrig gebliebenen Zettel werden in "Action Items" umgewandelt. Für jeden Punkt wird eine verantwortliche Person bestimmt und ein Zieltermin festgelegt.&#x20;
+
+* Welche Maßnahmen sind notwendig, dass die Punkte aus "Learned" im Team ettabliert oder in Zukunft umgesetzt werden? Ggf. ist hier Wissenstransfer notwendig (Pairing, Schulung, ein kleiner Workshop o.ä. ).
+* Wie sind die Dinge erhältlich, nach denen sich das Team gesehnt hat ("Longed for"_)._ Ggf. muss hier Budget beantragt werden, mit dem Management gesprochen werden etc.)
+* Was muss gemacht werden, um die fehlenden Punkte zu behben. Alles im Bereich "Lacked" ist essentiell um das Team besser zu machen. Ggf. kann das Team dies nicht alleine, sobald es sich um organisatorische Punkte handelt, kann der Scrum Master oder weitere Personen unterstützen, die identifizierten Probleme zu behandeln.
+* Welche Maßnahmen werden umgesetzt um sicherzustellen, dass die Punkte aus Loved/Liked im Team beibehalten werden (z.B. einen Punkt in die DoD aufnehmen, der im Sprint praktiziert wurde)
+
+**Tipp**: Aus psychologischen Gründen ist es sinvoll, die Boards "Learned" und "Loed/Liked" als letztes zu besprechen. Somit erhält die Retrospektive einen positiven Abschluss.
 
 ### Hintergrundwissen
 
