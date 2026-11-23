@@ -67,10 +67,11 @@ Given: "Develop a campus study-room booking application."
 7. Add one compensating measure for each other affected dimension. Explain the project-management consequence in one sentence.
 8. Create a Gantt table with five phases. Each phase needs a start, end, dependency, responsible role, and result.
 9. Mark at least two milestones as `MILESTONE`. A milestone must describe a result or decision, not an activity.
+10. Use GanttProject for creating the project plan requested above [https://www.ganttproject.biz/](https://www.ganttproject.biz/)
 
 **Deliverable**
 
-Submit the following in one document or on one board:
+1. Submit the following in one document:
 
 ```
 Outcome goal:
@@ -87,10 +88,11 @@ Compensating measure 1:
 Compensating measure 2:
 Risk introduced:
 
-Gantt table:
-| Activity | Start | End | Dependency | Responsible role | Result |
-|---|---|---|---|---|---|
 ```
+
+2. Submitt the GanttProject file with your project plannt
+
+
 
 **Quality check**
 
