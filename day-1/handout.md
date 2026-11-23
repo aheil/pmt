@@ -570,7 +570,4 @@ Students can:
 
 * **Scrum primary source:** [scrumguides.org](https://scrumguides.org/)
 * **Agile Manifesto primary source:** [agilemanifesto.org](https://agilemanifesto.org/)
-* **Course PM material:** pm.md
-* **Course Scrum material:** scrum.md
-* **Lecture notes:** day1.md
-* **Exercises:** day1.md
+
